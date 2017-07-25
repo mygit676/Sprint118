@@ -5,7 +5,7 @@ public class DevopsEng {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
     System.out.println("DEVOPS Engineer 1");
-    System.out.println("Devops Engineer 2");
+    System.out.println("Dev Engineer 2");
 	}
 
 }
